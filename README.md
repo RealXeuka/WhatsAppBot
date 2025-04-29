@@ -31,11 +31,11 @@ cd /sdcard
 ```
 
 ```ts
-git clone
+git clone https://github.com/RealXeuka/WhatsAppBot.git
 ```
 
 ```ts
-cd 
+cd WhatsAppBot
 ```
 
 ```ts
